@@ -1,7 +1,13 @@
 # 2025 Projects
 
----
-Using **Flutter**
+
+# Using **Flutter**
+| Name       | Age | Occupation  |
+|:-----------|-----|:-----------:|
+| Alice      | 30  | Developer   |
+| Bob        | 25  | Designer    |
+| Charlie    | 35  | Manager     |
+
 
 ### 1. **Real-Time Collaboration App (e.g., Document Editor, Whiteboard)**
 
